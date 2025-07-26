@@ -95,7 +95,7 @@ a:active {
     }
 
 .hero {
-  background-image: url('image/gambarbackground.jpg');
+  background-image: url('gambarbackground.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
